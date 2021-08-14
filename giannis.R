@@ -69,5 +69,5 @@ df %>%
     Credit: **Ivo Villanueva**." )) %>% 
   gtsave("gianis.html")
   
-webshot::install_phantomjs()
+
 
